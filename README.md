@@ -50,6 +50,6 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 - mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cardapio" title="#cardapio" src="./.github/mobile-1.jpg" width="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/mobile-2.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-1.jpg" height="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-2.jpg" height="400px">
 </p>
