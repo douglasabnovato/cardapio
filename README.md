@@ -9,11 +9,6 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 
 ### QR Code
 
-- o link do qr code
-
-https://qrco.de/bdQMqr
-
-
-- a imagem do qr code
-
-[qr code logo](./.github/qr-code-logo.png)
+- [gerador de qr code](https://app.qr-code-generator.com/getstarted)
+- o link do qr code: https://qrco.de/bdQMqr
+- a imagem do qr code: [qr code logo](./.github/qr-code-logo.png)
