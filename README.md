@@ -4,7 +4,6 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1 do projeto" title="#cardapio" src="./.github/desktop-1.jpg" >
-  <img alt="versão 1 do projeto" title="#cardapio" src="./.github/desktop-2.jpg" >
 </p>  
 
 Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr code.
@@ -37,4 +36,20 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-9.jpg" width="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-8.jpg" width="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-7.jpg" width="400px">
+</p>
+
+#### Design
+
+- desktop
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="cardapio" title="#cardapio" src="./.github/desktop-1.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/desktop-2.jpg" width="400px">
+</p>
+
+- mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-1.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-2.jpg" width="400px">
 </p>
