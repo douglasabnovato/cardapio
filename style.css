@@ -1,4 +1,11 @@
-*{
+:root {
+    --metric-box-spacing: 2rem;
+    --color-off-white: rgb(255, 255, 255);
+    --metric-radius: 1rem;
+    --generic-shadow: 2rem;
+}
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -12,3 +19,39 @@ body {
     background-color: rgb(193, 228, 228);
 }
 
+main {
+    padding: var(--metric-box-spacing);
+    min-block-size: calc(100vh - 8em);
+}
+
+header {
+    background-color: var(--color-off-white);
+    text-align: center;
+}
+
+header {
+    padding: var(--metric-box-spacing);
+    background-color: hsl(140deg 70% 95%);
+    font-size: 1.4em;
+}
+
+header img {
+    height: 6rem;
+}
+
+.hamburguers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    grid-gap: var(--metric-box-spacing);
+}
+
+.hamburguer {    
+    padding: var(--metric-box-spacing);
+    background-color: var(--color-off-white);
+    border-radius: var(--metric-radius);
+    box-shadow: var(--generic-shadow);
+}
+
+.hamburguer .image img {
+    height: 8rem;
+}
