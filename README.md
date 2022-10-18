@@ -34,7 +34,7 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-3.jpg" height="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-1.jpg" height="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-2.jpg" height="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-5.jpg" width="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-6.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-9.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-8.jpg" width="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/modelo-7.jpg" width="400px">
 </p>
