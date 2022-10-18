@@ -23,11 +23,17 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 - a imagem do qr code
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cardapio" title="#cardapio" src="./.github/qr-code-logo.png" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./assets/qr-code-logo.jpg" width="400px">
 </p>
 
 #### Inspirações
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cardapio" title="#cardapio" src="./.github/desktop-1.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-1.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-2.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-3.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-1.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-2.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-5.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/modelo-6.jpg" width="400px">
 </p>
