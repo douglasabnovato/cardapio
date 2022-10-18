@@ -23,8 +23,8 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 
 - a imagem do qr code
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cardapio" title="#cardapio" src="./assets/qr-code-logo.jpg" width="400px">
+<p align="left" style="display: flex; align-items: flex-start; justify-content: left;">
+  <img alt="cardapio" title="#cardapio" src="./assets/qr-code-logo.jpg" height="400px">
 </p>
 
 #### Inspirações
