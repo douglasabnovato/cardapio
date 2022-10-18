@@ -16,7 +16,7 @@ html {
 }
 
 body {
-    background-color: rgb(193, 228, 228); 
+    background-color: rgb(193, 228, 228);
 }
 
 main {
@@ -45,7 +45,7 @@ header img {
     grid-gap: var(--metric-box-spacing);
 }
 
-.hamburguer {    
+.hamburguer {
     padding: var(--metric-box-spacing);
     background-color: var(--color-off-white);
     border-radius: var(--metric-radius);
@@ -53,5 +53,22 @@ header img {
 }
 
 .hamburguer .image img {
-    height: 25rem;
+    height: 8rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    grid-gap: var(--metric-box-spacing);
+}
+
+.qr-code {
+    padding: var(--metric-box-spacing);
+    background-color: var(--color-off-white);
+    border-radius: var(--metric-radius);
+    box-shadow: var(--generic-shadow);
+}
+
+.qr-code .image img {
+    height: 22rem;
 }
