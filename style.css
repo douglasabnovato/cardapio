@@ -1,8 +1,13 @@
 :root {
-    --metric-box-spacing: 2rem;
+    --metric-box-spacing: 1rem;
     --color-off-white: rgb(255, 255, 255);
     --metric-radius: 1rem;
     --generic-shadow: 2rem;
+
+    --color-green: rgb(5, 160, 84);
+    --color-rosa: rgb(249, 245, 236);
+    --color-yellow: rgb(231, 176, 75);
+    --color-cinza: rgb(222, 222, 222);
 }
 
 * {
@@ -16,7 +21,7 @@ html {
 }
 
 body {
-    background-color: rgb(193, 228, 228);
+    background-color: rgb(220, 233, 233);
 }
 
 header {
@@ -52,7 +57,26 @@ main {
     box-shadow: var(--generic-shadow);
 }
 
-.hamburguer .image img {
+.hamburguer .header-burguer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3px;
+}
+
+.hamburguer .header-burguer .likes i{
+    color: var(--color-cinza);
+}
+
+.header-burguer .sales {
+    background-color: var(--color-green);
+    color: #fff;
+    text-align: center;
+    border-radius: 16px;
+    padding: 4px 14px;  
+    z-index: 1;
+}
+
+.hamburguer .image-burguer img {
     height: 8rem;
 }
 
