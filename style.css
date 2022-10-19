@@ -19,11 +19,6 @@ body {
     background-color: rgb(193, 228, 228);
 }
 
-main {
-    padding: var(--metric-box-spacing);
-    min-block-size: calc(100vh - 8em);
-}
-
 header {
     background-color: var(--color-off-white);
     text-align: center;
@@ -37,6 +32,11 @@ header {
 
 header img {
     height: 6rem;
+}
+
+main {
+    padding: var(--metric-box-spacing);
+    min-block-size: calc(100vh - 8em);
 }
 
 .hamburguers {
@@ -56,13 +56,13 @@ header img {
     height: 8rem;
 }
 
-.container {
+.qr-code {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
     grid-gap: var(--metric-box-spacing);
 }
 
-.qr-code {
+.qr-code .box {
     padding: var(--metric-box-spacing);
     background-color: var(--color-off-white);
     border-radius: var(--metric-radius);
