@@ -44,7 +44,14 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 
 - imagens
 
+#### Versões
+
 - desktop
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="cardapio" title="#cardapio" src="./.github/desktop-1-2.jpg" width="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/desktop-2-2.jpg" width="400px">
+</p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="cardapio" title="#cardapio" src="./.github/desktop-1.jpg" width="400px">
@@ -52,6 +59,11 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 </p>
 
 - mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-1-2.jpg" height="400px">
+  <img alt="cardapio" title="#cardapio" src="./.github/mobile-2-2.jpg" height="400px">
+</p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="cardapio" title="#cardapio" src="./.github/mobile-1.jpg" height="400px">
