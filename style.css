@@ -6,7 +6,8 @@
 
     --color-green: rgb(5, 160, 84);
     --color-rosa: rgb(249, 245, 236);
-    --color-yellow: rgb(231, 176, 75);
+    --color-yellow-star: rgb(231, 176, 75);
+    --color-yellow-sale: rgb(255, 191, 31);
     --color-cinza: rgb(222, 222, 222);
 }
 
@@ -76,6 +77,10 @@ main {
     z-index: 1;
 }
 
+.hamburguer .header-burguer .sales.sale {
+    background-color: var(--color-yellow-sale);
+}
+
 .hamburguer .image-burguer { 
     position: relative;
     margin-bottom: 52px;
@@ -107,7 +112,7 @@ main {
 }
 
 .hamburguer .infos-burguer .infos-header .stars i{
-    color: var(--color-yellow);
+    color: var(--color-yellow-star);
     margin-bottom: 12px;
 }
 
@@ -123,14 +128,14 @@ main {
 }
 
 .hamburguer .footer-burguer .price{
-    color: var(--color-yellow);
+    color: var(--color-yellow-star);
     font-size: 21px;
     font-weight: 700;
 }
 
 .hamburguer .footer-burguer .functions span{
     padding: 10px 14px;
-    background-color: var(--color-yellow);
+    background-color: var(--color-yellow-star);
     margin:  1px;
     color: #000000;
     border-radius: 8px;
