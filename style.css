@@ -67,7 +67,7 @@ main {
     color: var(--color-cinza);
 }
 
-.header-burguer .sales {
+.hamburguer .header-burguer .sales {
     background-color: var(--color-green);
     color: #fff;
     text-align: center;
@@ -76,8 +76,40 @@ main {
     z-index: 1;
 }
 
+.hamburguer .image-burguer { 
+    position: relative;
+    margin-bottom: 22px;
+    display: flex;
+    justify-content: center;
+}
+
 .hamburguer .image-burguer img {
-    height: 8rem;
+    vertical-align: middle;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 3;
+}
+
+.hamburguer .image-burguer .retangular {
+    background-color: var(--color-rosa);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 2;
+    bottom: -8px;
+}
+
+.hamburguer .infos-burguer .infos-header .stars i{
+    color: var(--color-yellow);
+    margin-bottom: 12px;
+}
+
+.hamburguer .infos-burguer .infos-header .title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 7px;
 }
 
 .qr-code {
