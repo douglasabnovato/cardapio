@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#cardapio" src="./.github/desktop-1.jpg" >
+  <img alt="versão 1 do projeto" title="#cardapio" src="./.github/desktop-1-2.jpg" >
 </p>  
 
 Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr code.
