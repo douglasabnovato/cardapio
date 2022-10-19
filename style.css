@@ -9,6 +9,8 @@
     --color-yellow-star: rgb(231, 176, 75);
     --color-yellow-sale: rgb(255, 191, 31);
     --color-cinza: rgb(222, 222, 222);
+    --color-laranja-logo: rgb(228, 87, 41);
+    --color-yellow-logo: rgb(255, 191, 31);
 }
 
 * {
@@ -36,8 +38,28 @@ header {
     font-size: 1.4em;
 }
 
-header img {
+header .header-logo {
+    display: flex;
+}
+
+header .header-logo img {
     height: 6rem;
+}
+
+header .header-logo .logo-name {
+    margin-top: 8px;
+    margin-left: 12px;
+    text-align: left;
+}
+
+header .header-logo .logo-name :nth-child(1){
+    font-size: 34px;
+    color: var(--color-laranja-logo);
+}
+
+header .header-logo .logo-name :nth-child(3){
+    font-size: 36px;
+    color: var(--color-yellow-logo);
 }
 
 main {
