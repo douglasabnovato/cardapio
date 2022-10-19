@@ -165,18 +165,31 @@ main {
 }
 
 .qr-code {
+    margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
     grid-gap: var(--metric-box-spacing);
 }
 
 .qr-code .box {
-    padding: var(--metric-box-spacing);
+    margin: 0 auto;
+    padding: 18px;
     background-color: var(--color-off-white);
     border-radius: var(--metric-radius);
     box-shadow: var(--generic-shadow);
 }
 
+.qr-code .image {
+    margin-bottom: 12px;
+}
+
 .qr-code .image img {
     height: 22rem;
+}
+
+.qr-code .infos h3,
+.qr-code .infos h4{
+    font-size: 20px;
+    color: var(--color-yellow-star);
+    margin-bottom: 10px;
 }
