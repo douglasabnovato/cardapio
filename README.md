@@ -38,6 +38,12 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 
 #### Design
 
+- cores
+
+- fontes
+
+- imagens
+
 - desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
