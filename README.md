@@ -8,11 +8,11 @@
 
 Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr code.
 
-- [ ] desenvolver o cardápio conforme o design
-- [ ] criar as informações a partir do json
+- [ ] desenvolver o cardápio conforme o design - frontend
 - [ ] estilizar design dinamicamente
 - [ ] design responsivo: desktop, tablet, mobile
-- [ ] desenvolver o qr code
+- [ ] desenvolver o qr code 
+- [ ] criar as informações a partir do json - backend
 
 ### QR Code
 
