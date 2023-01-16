@@ -55,12 +55,12 @@ header .header-logo .logo-name {
     font-family: Indie Flower, sans-serif;
 }
 
-header .header-logo .logo-name :nth-child(1){
+header .header-logo .logo-name :nth-child(1) {
     font-size: 34px;
     color: var(--color-laranja-logo);
 }
 
-header .header-logo .logo-name :nth-child(3){
+header .header-logo .logo-name :nth-child(3) {
     font-size: 36px;
     color: var(--color-yellow-logo);
 }
@@ -90,7 +90,7 @@ main {
     margin-bottom: 3px;
 }
 
-.hamburguer .header-burguer .likes i{
+.hamburguer .header-burguer .likes i {
     color: var(--color-cinza);
 }
 
@@ -99,7 +99,7 @@ main {
     color: #fff;
     text-align: center;
     border-radius: 16px;
-    padding: 4px 14px;  
+    padding: 4px 14px;
     z-index: 1;
     font-weight: bold;
 }
@@ -108,7 +108,7 @@ main {
     background-color: var(--color-yellow-sale);
 }
 
-.hamburguer .image-burguer { 
+.hamburguer .image-burguer {
     position: relative;
     margin-bottom: 52px;
     display: flex;
@@ -139,7 +139,7 @@ main {
     margin-bottom: 16px;
 }
 
-.hamburguer .infos-burguer .infos-header .stars i{
+.hamburguer .infos-burguer .infos-header .stars i {
     color: var(--color-yellow-star);
     margin-bottom: 12px;
 }
@@ -151,7 +151,7 @@ main {
     font-family: Indie Flower, sans-serif;
 }
 
-.hamburguer .infos-burguer .infos-description {    
+.hamburguer .infos-burguer .infos-description {
     font-family: Space Grotesk, sans-serif;
 }
 
@@ -160,16 +160,16 @@ main {
     justify-content: space-between;
 }
 
-.hamburguer .footer-burguer .price{
+.hamburguer .footer-burguer .price {
     color: var(--color-yellow-star);
     font-size: 21px;
     font-weight: 700;
 }
 
-.hamburguer .footer-burguer .functions span{
+.hamburguer .footer-burguer .functions span {
     padding: 10px 14px;
     background-color: var(--color-yellow-star);
-    margin:  1px;
+    margin: 1px;
     color: #000000;
     border-radius: 8px;
 }
@@ -198,8 +198,16 @@ main {
 }
 
 .qr-code .infos h3,
-.qr-code .infos h4{
+.qr-code .infos h4 {
     font-size: 20px;
     color: var(--color-yellow-star);
     margin-bottom: 10px;
+}
+
+.qr-code .infos h3 {
+    font-family: Indie Flower, sans-serif;
+}
+
+.qr-code .infos p {
+    font-family: Space Grotesk, sans-serif;
 }
