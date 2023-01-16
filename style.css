@@ -116,7 +116,7 @@ main {
 } 
 
 .hamburguer .image-burguer .image-hamburger-1 {
-    background-image: url("./assets/hamburguer-1.jpg");
+    background-image: url("./images/hamburguer-1.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
@@ -126,7 +126,7 @@ main {
 }
 
 .hamburguer .image-burguer .image-hamburger-2 {
-    background-image: url("./assets/hamburguer-2.jpg");
+    background-image: url("./images/hamburguer-2.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
@@ -136,7 +136,7 @@ main {
 }
 
 .hamburguer .image-burguer .image-hamburger-3 {
-    background-image: url("./assets/hamburguer-3.jpg");
+    background-image: url("./images/hamburguer-3.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
@@ -146,7 +146,7 @@ main {
 }
 
 .hamburguer .image-burguer .image-hamburger-4 {
-    background-image: url("./assets/hamburguer-4.jpg");
+    background-image: url("./images/hamburguer-4.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
@@ -156,7 +156,7 @@ main {
 }
 
 .hamburguer .image-burguer .image-hamburger-5 {
-    background-image: url("./assets/hamburguer-5.jpg");
+    background-image: url("./images/hamburguer-5.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
@@ -166,7 +166,7 @@ main {
 }
 
 .hamburguer .image-burguer .image-hamburger-6 {
-    background-image: url("./assets/hamburguer-6.jpg");
+    background-image: url("./images/hamburguer-6.jpg");
     background-size: contain; /* cover contain auto */
     background-position: center center;
     width: 150px;
