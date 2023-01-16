@@ -110,14 +110,15 @@ main {
 
 .hamburguer .image-burguer {
     position: relative;
-    margin-bottom: 52px;
+    margin-bottom: 38px;
     display: flex;
     justify-content: center;
-} 
+}
 
 .hamburguer .image-burguer .image-hamburger-1 {
     background-image: url("./images/hamburguer-1.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -127,7 +128,8 @@ main {
 
 .hamburguer .image-burguer .image-hamburger-2 {
     background-image: url("./images/hamburguer-2.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -137,7 +139,8 @@ main {
 
 .hamburguer .image-burguer .image-hamburger-3 {
     background-image: url("./images/hamburguer-3.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -147,7 +150,8 @@ main {
 
 .hamburguer .image-burguer .image-hamburger-4 {
     background-image: url("./images/hamburguer-4.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -157,7 +161,8 @@ main {
 
 .hamburguer .image-burguer .image-hamburger-5 {
     background-image: url("./images/hamburguer-5.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -167,7 +172,8 @@ main {
 
 .hamburguer .image-burguer .image-hamburger-6 {
     background-image: url("./images/hamburguer-6.jpg");
-    background-size: contain; /* cover contain auto */
+    background-size: contain;
+    /* cover contain auto */
     background-position: center center;
     width: 150px;
     height: 150px;
@@ -189,15 +195,53 @@ main {
     margin-bottom: 16px;
 }
 
-.hamburguer .infos-burguer .infos-header .stars i {
-    color: var(--color-yellow-star);
-    margin-bottom: 12px;
+.hamburguer .infos-burguer .infos-header  {
+    display: block;
+}
+
+.rate {
+    float: left;
+    height: 36px;
+    padding: 0 10px;
+}
+
+.rate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+
+.rate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+}
+
+.rate:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
 }
 
 .hamburguer .infos-burguer .infos-header .title {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
-    margin-bottom: 7px;
+    margin-block: 7px;
     font-family: Indie Flower, sans-serif;
 }
 
