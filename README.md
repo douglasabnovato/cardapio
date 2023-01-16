@@ -27,9 +27,9 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 
 #### Design
 
-- cores
-- fontes
-- imagens
+- cores: rgb
+- fontes: Space Grotesk e Indie Flower
+- imagens: hamburgers
 
 #### Versões
 

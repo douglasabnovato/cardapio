@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
-/*
-Space Grotesk
-Indie Flower
-*/
-
 :root {
     --metric-box-spacing: 1rem;
     --color-off-white: rgb(255, 255, 255);
@@ -127,6 +122,7 @@ main {
     border-radius: 50%;
     position: relative;
     z-index: 3;
+    background-size: contain;
 }
 
 .hamburguer .image-burguer .retangular {
