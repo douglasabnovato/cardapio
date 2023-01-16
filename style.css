@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+/*
+Space Grotesk
+Indie Flower
+*/
+
 :root {
     --metric-box-spacing: 1rem;
     --color-off-white: rgb(255, 255, 255);
@@ -50,6 +57,7 @@ header .header-logo .logo-name {
     margin-top: 8px;
     margin-left: 12px;
     text-align: left;
+    font-family: Indie Flower, sans-serif;
 }
 
 header .header-logo .logo-name :nth-child(1){
@@ -98,6 +106,7 @@ main {
     border-radius: 16px;
     padding: 4px 14px;  
     z-index: 1;
+    font-weight: bold;
 }
 
 .hamburguer .header-burguer .sales.sale {
@@ -141,8 +150,13 @@ main {
 
 .hamburguer .infos-burguer .infos-header .title {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: bold;
     margin-bottom: 7px;
+    font-family: Indie Flower, sans-serif;
+}
+
+.hamburguer .infos-burguer .infos-description {    
+    font-family: Space Grotesk, sans-serif;
 }
 
 .hamburguer .footer-burguer {
