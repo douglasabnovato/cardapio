@@ -25,18 +25,6 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
   <img alt="cardapio" title="#cardapio" src="./assets/qr-code-logo.jpg" height="400px">
 </p>
 
-#### Inspirações
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-2.jpg" height="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-3.jpg" height="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-1.jpg" height="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-4-2.jpg" height="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-9.jpg" width="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-8.jpg" width="400px">
-  <img alt="cardapio" title="#cardapio" src="./.github/modelo-7.jpg" width="400px">
-</p>
-
 #### Design
 
 - cores
@@ -68,36 +56,3 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
   <img alt="cardapio" title="#cardapio" src="./.github/mobile-1.jpg" height="400px">
   <img alt="cardapio" title="#cardapio" src="./.github/mobile-2.jpg" height="400px">
 </p>
-
-#### Novos Clientes e produtos digitais
-
-Criar a identidade visual de negócios locais, com o processo de cs desenhado e atendido digitalmente.
-Fazer para os seguintes estabelecimentos e hospedar: imagem, PDF, site.
-
-. cardápio 
-.. de bolos
-.. de bebidas
-.. de lanches
-.. de porções 
-.. de cafés 
-
-. catálogo 
-.. fisioterapeuta 
-.. contador
-.. advogado 
-.. dentista 
-.. médico 
-
-. serviços 
-.. mecânico 
-.. manicure 
-.. cabelereiro 
-.. marceneiro 
-.. engenheiro civil 
-
-. locais 
-.. padaria
-.. farmácia 
-.. loja de roupa feminina 
-.. loja de roupa masculina 
-.. confecção de roupa sjn
