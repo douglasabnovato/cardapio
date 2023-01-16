@@ -14,6 +14,8 @@ Um cardápio de um restaurante e ser possível acessar esse cardápio por um qr 
 - [x] design responsivo: desktop, tablet, mobile
 - [ ] desenvolver o qr code 
 - [ ] criar as informações a partir do json - backend
+- [ ] salvar star rating
+- [ ] carrinho de compras
 
 ### QR Code
 
